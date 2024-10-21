@@ -1,1 +1,2 @@
 # zomato-data-analysis
+Performed data analysis on Zomato's Pune restaurant data using Python, Jupyter Notebook, and libraries like Pandas and Seaborn. Analyzed ratings, reviews, cuisine preferences, and cost data to uncover top-rated restaurants, popular dining spots, and most liked cuisines. Utilized data cleaning techniques and generated insights into affordable dining options, best places for Biryani, and standout restaurants in areas like Baner
